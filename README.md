@@ -1,6 +1,6 @@
 hey there! 👋
 
-i'm really into anything related to computer science, computer technology, and programming. currently, i'm working on this cool project for my client that automates book creation and offers. so whenever my client gets a message, the program jumps into action, generating an offer with the book included as a PDF.
+i'm really into anything related to computer science, computer technology, and programming.
 
 as for my background, i'm studying at the University of Jaén in Spain on an Erasmus scholarship. before that, i was diving into computer science and technology back in my home university in Georgia.
 
